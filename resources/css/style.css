@@ -17,6 +17,11 @@ body {
     color: gray;
 }
 
+.footer {
+    text-align: right;
+    color: gray;
+}
+
 
 .header-main {
     font-weight: normal;
